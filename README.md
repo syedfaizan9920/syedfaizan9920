@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syedfaizan9920
 - 👀 I’m interested in practical approach
 - 🌱 I’m currently working with Devops methodology
-- 💞️ I’m looking to collaborate on new projects on devops
+- 💞️ I’m looking to collaborate on new projects on devops.
 - 📫 How to reach me : faizanullah.syed19@gmail.com
 - 📞 whatsapp/contact me : +91 9765559920
 <!---
