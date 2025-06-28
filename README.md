@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Syed Faizanullah
+# 👋 Hi there, I'm Faizanullah Syed
 
 ### 🔐 SOC Analyst | Cybersecurity Enthusiast | Threat Detection | SIEM | Blue Team
 
