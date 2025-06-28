@@ -11,7 +11,7 @@ I'm a Security Operations (SOC) Analyst with a passion for cybersecurity and thr
 - 💻 Scripting with Bash and Python (basic automation & log parsing)
 
 ### 👨‍💼 Currently Working On:
-- Supporting NVIDIA's SOC operations (via Randstad)  
+- Supporting NVIDIA Graphics (via Randstad)  
 - Building my personal SOC Lab with Wazuh + ELK  
 - Practicing Threat Detection Scenarios using MITRE ATT&CK
 
